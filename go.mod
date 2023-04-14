@@ -6,7 +6,7 @@ require (
 	github.com/ardanlabs/conf v1.5.0
 	github.com/dgraph-io/ristretto v0.1.1
 	github.com/fasthttp/router v1.4.15
-	github.com/getkin/kin-openapi v0.112.0
+	github.com/abdouramane/kin-openapi v0.112.1
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/golang/mock v1.6.0
